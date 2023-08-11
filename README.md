@@ -7,7 +7,7 @@ In this project, I've endeavored to recreate the familiar interface of Amazon.co
 
 I invite you to explore the project on your desktop or laptop browser to get the most out of the experience. Please note that at present, the project may not be optimized for responsiveness across various devices. This means that while the replication may shine on larger screens, it might not provide the same experience on mobile devices.
 
-##Key Points:
+## Key Points:
 ```
 Replicated Amazon.com using HTML, CSS, and Sass.
 Focused on capturing the essence of the original design.
